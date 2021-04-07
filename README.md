@@ -8,3 +8,4 @@
 ALevkas/ALevkas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[! [Статистика Anurag на GitHub] (https://github-readme-stats.vercel.app/api ? Username = ALevkas )] (https://github.com/anuraghazra/github-readme-stats)
