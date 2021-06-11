@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksandr Levchenko. 23 y.o.
+- 👋 Hi, I’m Aleksandr Levchenko. 24 y.o.
 - 👀 I’m interested JS, React, Node.js, Express.js, HTML5, CSS3, SCSS.
 - 🌱 I’m constantly learning.
 - 💞️ I’m looking to collaborate on with a good company in which I will develop my skills.
